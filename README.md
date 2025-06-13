@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👋 Merhaba! Benim adım Emir 👨‍💻
 
-<!--
-**0EmiR8/0EmiR8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Lise hazırlık öğrencisiyim ve yazılım öğrenmeye erken başladım.  
+💻 Python öğreniyorum, özellikle oyun ve uygulama geliştirme alanlarına ilgi duyuyorum.  
+🛠️ Şu anda küçük projeler yaparak kendimi geliştiriyorum.  
+🎯 Hedefim, ileride kendi oyunumu ve uygulamamı geliştirebilmek.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Şu anda öğrendiklerim
+- Python (temel seviye)
+- Git ve GitHub kullanımı
+- Temel algoritma mantığı
+
+---
+
+## 📌 Hedeflerim
+- Python’da ileri seviye olmak
+- Basit bir oyun ya da terminal uygulaması yapmak
+- HTML/CSS öğrenip küçük web projeleri yapmak
+- GitHub’da aktif ve üretken bir profil oluşturmak
+
+---
+
+## 📂 Projelerim
+🧠 Yeni başladığım bazı projelerim aşağıda:  
+- 🔢 [Sayı Tahmin Oyunu](#)  
+- 📋 [Yapılacaklar Listesi (To-do)](#)  
+- 🎮 [Mini text tabanlı oyun](#)
+
+---
+
+## 📫 Bana Ulaş
+
+- 📸 Instagram (Rocket League): [@rocket_league_prosu],(https://www.instagram.com/rocket_league_prosu/)
+
+---
+
+> "Kod yazarak öğreniyorum. Öğrendikçe paylaşıyorum. Paylaştıkça gelişiyorum."
