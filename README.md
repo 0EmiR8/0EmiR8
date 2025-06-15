@@ -23,10 +23,7 @@
 ---
 
 ## 📂 Projelerim
-🧠 Yeni başladığım bazı projelerim aşağıda:  
-- 🔢 [Sayı Tahmin Oyunu](#)  
-- 📋 [Yapılacaklar Listesi (To-do)](#)  
-- 🎮 [Mini text tabanlı oyun](#)
+🧠 Yeni öğreniyorum daha bir projem yok.
 
 ---
 
